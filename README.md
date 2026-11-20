@@ -125,7 +125,7 @@ plt.show()
 weighted avg       0.98      0.98      0.98       450
 ```
 
-
+![MLP Output](exp5.png)
 
 ## Result
 Thus, the Multilayer Perceptron (MLP) classification model was successfully implemented using Python. The model achieved 98% accuracy on the test dataset, demonstrating excellent classification performance.
